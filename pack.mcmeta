@@ -3,8 +3,8 @@
 
     "description": "粒子增亮資源包\nAEhenry's Luminous Particles 1.21.6+",
     "pack_format": 75,
-    "supported_formats": [34, 75],
-    "min_format": 34,
+    "supported_formats": [56, 75],
+    "min_format": 56,
     "max_format": 75
  
   }
